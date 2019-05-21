@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Jhon doe",
+        "company":"123-Designs",
+        "phome":"123-456-789"
+    },
+    {
+        "id":2,
+        "name":"Jhon doe",
+        "company":"123-Designs",
+        "phome":"123-456-789"
+    },
+    {
+        "id":3,
+        "name":"Jhon doe",
+        "company":"123-Designs",
+        "phome":"123-456-789"
+    }
+]
